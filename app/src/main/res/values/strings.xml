@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Hemanshu Varma</string>
+    <string name="imageDesc">Yellow Star</string>
+    <string name="bio">Hello! Hemanshu Varma here from Hyderabad. \n I\'m a Android Developer and
+        Tech Enthusiast. \n I graduated from Malla Reddy Institute of Technology and Science
+        in Computer Science Specialization. \n I love to code in free hours and cuddle with pooches :P \n
+        The best thing about being in Hyderabad is the food and culture followed. :) \n
+        The most popular dish is Biryani and people all over India come here just to grab a bite of it.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
